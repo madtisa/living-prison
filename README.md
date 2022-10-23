@@ -10,6 +10,6 @@ The modlist for more convinient management
     1. Open wabbajack
     1. Click `Install From Disk`
     1. Write path to the extracted modlist to Target Modlist
-    1. Installation folder is a location where modlist will be installed (don't install in folder with the game). For example, `C:\Modding\Living Prison`.
-1. When installation finished open installation location and run `ModOrganizer.exe` (e.g. `C:\Modding\Living Prison\ModOrganizer.exe`)
+    1. Installation folder is a location where modlist will be installed (don't install in folder with the game). For example, `C:\Modding\LivingPrison`.
+1. When installation finished open installation location and run `ModOrganizer.exe` (e.g. `C:\Modding\LivingPrison\ModOrganizer.exe`)
 1. Click `Run` button at right top corner
